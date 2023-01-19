@@ -1,7 +1,7 @@
 # An Authentication server
 
 It is a server where we have created a signup login server and the token generation and authorisation.
-We have created a middleware to secure routes and extract claim from token
+We have created a middleware to secure routes and extract claim from token along with the swagger documentation
 
 ## Requirements ##
 1. go (1.18.8 or above)
